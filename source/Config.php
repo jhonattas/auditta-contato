@@ -2,17 +2,17 @@
 if(getenv('mode') == 'development'){
   define("URL_BASE", "http://localhost/");
   // define("API", "http://localhost:3457/");
-  define("API", "https://api.territoriofight.com.br/");
+  define("API", "https://api.auditta.com.br/");
 
   ini_set('display_errors', 1);
   ini_set('display_startup_errors', 1);
   error_reporting(E_ALL);
 } else {
-  define("URL_BASE", "https://territoriofight.com.br/");
-  define("API", "https://api.territoriofight.com.br/");
+  define("URL_BASE", "https://contato.auditta.com.br/");
+  define("API", "https://api.auditta.com.br/");
 }
 define("API_IMAGES", API . "static/images/");
-define("mainTitle", "Território Fight");
+define("mainTitle", "AUDITTA");
 
 session_start();
 
