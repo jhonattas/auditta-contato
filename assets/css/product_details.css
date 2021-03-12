@@ -1,0 +1,35 @@
+  .productBOX {
+    margin: 50px auto 0;
+  }
+
+  .actionButtons {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 0.2em;
+  }
+
+  .table {
+    border: 1px solid #cccccc;
+  }
+
+  .productDetailsPage {
+    margin: 15px auto;
+    padding: 0;
+    border-radius: 15px;
+    min-height: 400px;
+    max-width: 900px;
+    background: #ffffff;
+  }
+
+  .imageBoxes {
+    background: #FFF;
+    min-height: 200px;
+  }
+
+  .imagePreviews {
+    background-position: center center !important;
+    background-size: cover !important;
+    margin: 0.2em auto;
+    border-radius: 5px;
+    min-height: 200px;
+  }

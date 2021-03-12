@@ -1,0 +1,45 @@
+.card {
+    border-top: 4px solid #1c5d93;
+  }
+  .card-title a {
+    color: #333333;
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+
+  .card-footer {
+    border-top: none !important;
+    background: #FFFFFF;
+  }
+
+  .cardEquipment {
+    min-height: 250px;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .cardEquipment::after {
+    background-image: url('https://universalequipamento.com.br/assets/img/watermark_new.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat;
+    background-position: center !important;
+    content: "";
+    opacity: 0.7;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    max-height: 250px;
+  }
+
+  .details {
+    background-color: #1b5e93 !important;
+    border: none;
+  }
+
+  .details:hover {
+    background-color: #276ea1 !important;
+  }

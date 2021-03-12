@@ -1,0 +1,69 @@
+  body {
+    padding-top: 54px;
+  }
+
+  .categoryBox {
+    border: 1px solid rgba(0,0,0,.125) !important;
+  }
+
+  .categoryName {
+    border: none !important;
+    background: #14669d;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+  }
+
+  .categoryName:hover {
+    color: #eac836 !important;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+  }
+
+  .subcategory {
+    color: #666666;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  .navbar2 {
+    margin-top: 80px !important;
+  }
+
+  .navbar-logo {
+    max-width: 40px;
+    margin: 0 0.3rem;
+  }
+  
+  .anuncie {
+    margin: 1.5rem auto 1rem;
+  }
+
+  .footer {
+    background-color: #14669d;
+  }
+
+  .criador {
+    color: #cccccc;
+  }
+
+  .criador a {
+    color: #ffffff;
+  }
+
+  .criador a:hover {
+    color: #ffffff;
+  }
