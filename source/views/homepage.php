@@ -105,24 +105,24 @@
     <div class="container-fluid p-0">
       <div class="row no-gutters">
 
-        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('<?php echo URL_BASE; ?>assets/img/bg-showcase-1.jpg');"></div>
+        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('https://certificadocampinas.com.br/assets/img/image-1.jpg');"></div>
         <div class="col-lg-6 order-lg-1 my-auto showcase-text">
-          <h2>Fully Responsive Design</h2>
-          <p class="lead mb-0">When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!</p>
+          <h2>1. Agende um horário 100% online</h2>
+          <p class="lead mb-0">Nós respeitamos o seu tempo. Por isso, estamos prontos para tirar todas as suas dúvidas e realizar seu agendamento de forma <b>totalmente online</b>.</p>
         </div>
       </div>
       <div class="row no-gutters">
-        <div class="col-lg-6 text-white showcase-img" style="background-image: url('<?php echo URL_BASE; ?>assets/img/bg-showcase-2.jpg');"></div>
+        <div class="col-lg-6 text-white showcase-img" style="background-image: url('https://certificadocampinas.com.br/assets/img/image-2.jpg');"></div>
         <div class="col-lg-6 my-auto showcase-text">
-          <h2>Updated For Bootstrap 4</h2>
-          <p class="lead mb-0">Newly improved, and full of great utility classes, Bootstrap 4 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 4!</p>
+          <h2>2. Realize a validação em até 15 minutos</h2>
+          <p class="lead mb-0">Escolha o melhor dia e horário para o seu atendimento presencial. Graças à nossa experiência de mercado, conseguimos finalizar a validação em, <b>no máximo, 15 minutos</b>.</p>
         </div>
       </div>
       <div class="row no-gutters">
-        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('<?php echo URL_BASE; ?>assets/img/bg-showcase-3.jpg');"></div>
+        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('https://certificadocampinas.com.br/assets/img/image-3.jpg');"></div>
         <div class="col-lg-6 order-lg-1 my-auto showcase-text">
-          <h2>Easy to Use &amp; Customize</h2>
-          <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>
+          <h2>3. Evite deslocamentos desnecessários</h2>
+          <p class="lead mb-0">Além do <b>atendimento online para todo o Brasil</b> , estamos localizados na cidade de Campinas e região, facilitando seu acesso e garantindo mais rapidez.</p>
         </div>
       </div>
     </div>
