@@ -75,7 +75,9 @@
           <div class="card-body">
             <h5 class="card-title">e-CPF</h5>
             <p class="card-text">Destinado a pessoas físicas; Permite assinar digitalmente documentos eletrônicos, com validade jurídica.</p>
-            <a href="#" class="btn btn-success">comprar</a>
+            <a
+              target="_new" 
+              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/e-cpf" class="btn btn-success">comprar</a>
           </div>
         </div>
         
@@ -84,7 +86,9 @@
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A1</h5>
             <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por software.</p>
-            <a href="#" class="btn btn-success">comprar</a>
+            <a 
+              target="_new"
+              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/e-cnpj/e-cnpj-a1" class="btn btn-success">comprar</a>
           </div>
         </div>
 
@@ -93,7 +97,9 @@
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A3</h5>
             <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por dispositivos.</p>
-            <a href="#" class="btn btn-success">comprar</a>
+            <a
+              target="_new"
+              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/e-cnpj/e-cnpj-a3" class="btn btn-success">comprar</a>
           </div>
         </div>
 
@@ -102,7 +108,9 @@
           <div class="card-body">
             <h5 class="card-title">NF-e</h5>
             <p class="card-text">Certificado digital ICP-Brasil destinado à emissão de Notas Fiscais Eletrônicas.</p>
-            <a href="#" class="btn btn-success">comprar</a>
+            <a 
+              target="_new"
+              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/nf-e" class="btn btn-success">comprar</a>
           </div>
         </div>
       </div>
