@@ -69,31 +69,39 @@
   <section class="features-icons bg-light text-center">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4">
-          <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-            <div class="features-icons-icon d-flex">
-              <i class="icon-screen-desktop m-auto text-primary"></i>
-            </div>
-            <h3>Fully Responsive</h3>
-            <p class="lead mb-0">This theme will look great on any device, no matter the size!</p>
+        <div class="card col-lg-3" style="width: 18rem;">
+          <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cpf_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <div class="card-body">
+            <h5 class="card-title">e-CPF</h5>
+            <p class="card-text">Destinado a pessoas físicas; Permite assinar digitalmente documentos eletrônicos, com validade jurídica.</p>
+            <a href="#" class="btn btn-success">comprar</a>
           </div>
         </div>
-        <div class="col-lg-4">
-          <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-            <div class="features-icons-icon d-flex">
-              <i class="icon-layers m-auto text-primary"></i>
-            </div>
-            <h3>Bootstrap 4 Ready</h3>
-            <p class="lead mb-0">Featuring the latest build of the new Bootstrap 4 framework!</p>
+        
+        <div class="card col-lg-3" style="width: 18rem;">
+          <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <div class="card-body">
+            <h5 class="card-title">e-CNPJ A1</h5>
+            <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por software.</p>
+            <a href="#" class="btn btn-success">comprar</a>
           </div>
         </div>
-        <div class="col-lg-4">
-          <div class="features-icons-item mx-auto mb-0 mb-lg-3">
-            <div class="features-icons-icon d-flex">
-              <i class="icon-check m-auto text-primary"></i>
-            </div>
-            <h3>Easy to Use</h3>
-            <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p>
+
+        <div class="card col-lg-3" style="width: 18rem;">
+          <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <div class="card-body">
+            <h5 class="card-title">e-CNPJ A3</h5>
+            <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por dispositivos.</p>
+            <a href="#" class="btn btn-success">comprar</a>
+          </div>
+        </div>
+
+        <div class="card col-lg-3" style="width: 18rem;">
+          <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_nf-e_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <div class="card-body">
+            <h5 class="card-title">NF-e</h5>
+            <p class="card-text">Certificado digital ICP-Brasil destinado à emissão de Notas Fiscais Eletrônicas.</p>
+            <a href="#" class="btn btn-success">comprar</a>
           </div>
         </div>
       </div>
