@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
 
@@ -11,7 +11,7 @@
   <title><?php echo mainTitle;?></title>
 
   <!-- Bootstrap core CSS -->
-  <link href="<?php echo URL_BASE; ?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="<?php echo URL_BASE; ?>vendor/twbs/bootstrap/dist/css/bootstrap.min.css"/>
 
   <!-- Custom fonts for this template -->
   <link href="<?php echo URL_BASE; ?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -20,10 +20,12 @@
 
   <!-- Custom styles for this template -->
   <link href="<?php echo URL_BASE; ?>assets/css/landing-page.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
 
 </head>
 
 <body>
+  <?php require_once('components/plugins/plugin-whatsapp.php'); ?>
 
   <!-- Navigation -->
   <nav class="navbar navbar-light bg-light static-top">
@@ -31,7 +33,10 @@
       <a class="navbar-brand" href="#">
         <img src="https://auditta.digitalsigncertificadora.com.br/skin/ar/images/logotipo-ar-auditta.png"/>
         </a>
-      <a class="btn btn-success" href="#">FALAR COM ESPECIALISTA</a>
+      <a 
+        class="btn btn-success"
+        href="https://api.whatsapp.com/send?phone=551932437597"
+        target="_new">FALAR COM ESPECIALISTA</a>
     </div>
   </nav>
 
@@ -47,7 +52,11 @@
           <form>
             <div class="form-row">
               <div class="col-12">
-                <button type="submit" class="btn btn-block btn-lg btn-success">FALAR COM ESPECIALISTA</button>
+                <a 
+                  type="submit" 
+                  href="https://api.whatsapp.com/send?phone=551932437597"
+                  target="_new"
+                  class="btn btn-block btn-lg btn-success">FALAR COM ESPECIALISTA</a>
               </div>
             </div>
           </form>
@@ -163,6 +172,8 @@
               <div class="col-12">
                 <a 
                   class="btn btn-block btn-lg btn-success"
+                  href="https://api.whatsapp.com/send?phone=551932437597"
+                  target="_new"
                   style="">FALAR COM ESPECIALISTA AGORA</a>
               </div>
             </div>
