@@ -46,7 +46,8 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-9 mx-auto">
-          <h1 class="mb-5">Compre agora seu certificado em token ou cartão com validade de 5 anos de maneira DESCOMPLICADA</h1>
+          <h1 class="mb-5">Compre agora seu Certificado Digital e-CPF ou e-CNPJ de forma DESCOMPLICADA.</h1>
+          <h3 class="mb-5">Parcelamos em até 10 x no Cartão de Crédito</h3>
         </div>
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
           <form>
