@@ -31,7 +31,7 @@
       <a class="navbar-brand" href="#">
         <img src="https://auditta.digitalsigncertificadora.com.br/skin/ar/images/logotipo-ar-auditta.png"/>
         </a>
-      <a class="btn btn-primary" href="#">FALAR COM ESPECIALISTA</a>
+      <a class="btn btn-success" href="#">FALAR COM ESPECIALISTA</a>
     </div>
   </nav>
 
@@ -47,7 +47,7 @@
           <form>
             <div class="form-row">
               <div class="col-12">
-                <button type="submit" class="btn btn-block btn-lg btn-primary">FALAR COM ESPECIALISTA</button>
+                <button type="submit" class="btn btn-block btn-lg btn-success">FALAR COM ESPECIALISTA</button>
               </div>
             </div>
           </form>
@@ -161,7 +161,9 @@
           <form>
             <div class="form-row">
               <div class="col-12">
-                <button type="submit" class="btn btn-block btn-lg btn-primary">FALAR COM ESPECIALISTA AGORA</button>
+                <a 
+                  class="btn btn-block btn-lg btn-success"
+                  style="">FALAR COM ESPECIALISTA AGORA</a>
               </div>
             </div>
           </form>
