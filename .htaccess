@@ -15,5 +15,5 @@ RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^(.*)$ index.php?route=/$1 [L,QSA]
 
-SetEnv URL_BASE "localhost"
+SetEnv URL_BASE "https://contato.auditta.com.br"
 SetEnv mode "development"
