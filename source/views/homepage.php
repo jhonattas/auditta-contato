@@ -86,7 +86,7 @@
           <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cpf_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CPF A3</h5>
-            <p>EM ARQUIVO<br/>36 MESES - R$ 259,00</p>
+            <p>EM CARTÃO<br/>36 MESES - R$ 259,00</p>
             <p class="card-text">Destinado a pessoas físicas; Permite assinar digitalmente documentos eletrônicos, com validade jurídica.</p>
             <a
               target="_new"
@@ -110,7 +110,7 @@
           <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A3</h5>
-            <p>EM ARQUIVO<br/>36 MESES - R$ 199,00</p>
+            <p>EM CARTÃO<br/>36 MESES - R$ 345,00</p>
             <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por dispositivos.</p>
             <a
               target="_new"
