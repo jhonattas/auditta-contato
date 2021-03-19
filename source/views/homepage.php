@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title><?php echo mainTitle;?></title>
+  <title><?php echo mainTitle; ?></title>
 
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="<?php echo URL_BASE; ?>vendor/twbs/bootstrap/dist/css/bootstrap.min.css"/>
@@ -25,7 +25,7 @@
 </head>
 
 <body>
-  <?php require_once('components/plugins/plugin-whatsapp.php'); ?>
+  <?php require_once 'components/plugins/plugin-whatsapp.php';?>
 
   <!-- Navigation -->
   <nav class="navbar navbar-light bg-light static-top">
@@ -33,7 +33,7 @@
       <a class="navbar-brand" href="#">
         <img src="https://auditta.digitalsigncertificadora.com.br/skin/ar/images/logotipo-ar-auditta.png"/>
         </a>
-      <a 
+      <a
         class="btn btn-success"
         href="https://api.whatsapp.com/send?phone=551932437597"
         target="_new">FALAR COM ESPECIALISTA</a>
@@ -53,8 +53,8 @@
           <form>
             <div class="form-row">
               <div class="col-12">
-                <a 
-                  type="submit" 
+                <a
+                  type="submit"
                   href="https://api.whatsapp.com/send?phone=551932437597"
                   target="_new"
                   class="btn btn-block btn-lg btn-success">FALAR COM ESPECIALISTA</a>
@@ -68,49 +68,53 @@
 
   <!-- Icons Grid -->
   <section class="features-icons bg-light text-center">
-    <div class="container">
-      <div class="row">
-        <div class="card col-lg-3" style="width: 18rem;">
+    <div class="container-fluid">
+      <div class="row" style="margin: 0 20px; padding: 10px;">
+        <div class="card col-lg-3" style="margin: 0;">
           <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cpf_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
-            <h5 class="card-title">e-CPF</h5>
+            <h5 class="card-title">e-CPF A1</h5>
+            <p>EM ARQUIVO<br/>12 MESES - R$ 137,00</p>
             <p class="card-text">Destinado a pessoas físicas; Permite assinar digitalmente documentos eletrônicos, com validade jurídica.</p>
             <a
-              target="_new" 
-              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/e-cpf" class="btn btn-success">comprar</a>
+              target="_new"
+              href="https://api.whatsapp.com/send?phone=551932437597" class="btn btn-success">comprar</a>
           </div>
         </div>
-        
-        <div class="card col-lg-3" style="width: 18rem;">
+
+        <div class="card col-lg-3" style="margin: 0;">
+          <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cpf_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <div class="card-body">
+            <h5 class="card-title">e-CPF A3</h5>
+            <p>EM ARQUIVO<br/>36 MESES - R$ 259,00</p>
+            <p class="card-text">Destinado a pessoas físicas; Permite assinar digitalmente documentos eletrônicos, com validade jurídica.</p>
+            <a
+              target="_new"
+              href="https://api.whatsapp.com/send?phone=551932437597" class="btn btn-success">comprar</a>
+          </div>
+        </div>
+
+        <div class="card col-lg-3" style="margin: 0;">
           <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A1</h5>
+            <p>EM ARQUIVO<br/>12 MESES - R$ 199,00</p>
             <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por software.</p>
-            <a 
+            <a
               target="_new"
-              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/e-cnpj/e-cnpj-a1" class="btn btn-success">comprar</a>
+              href="https://api.whatsapp.com/send?phone=551932437597" class="btn btn-success">comprar</a>
           </div>
         </div>
 
-        <div class="card col-lg-3" style="width: 18rem;">
+        <div class="card col-lg-3" style="margin: 0;">
           <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A3</h5>
+            <p>EM ARQUIVO<br/>36 MESES - R$ 199,00</p>
             <p class="card-text">Identifica uma pessoa jurídica, de forma unívoca. Permite a realização de transações eletrônicas seguras por dispositivos.</p>
             <a
               target="_new"
-              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/e-cnpj/e-cnpj-a3" class="btn btn-success">comprar</a>
-          </div>
-        </div>
-
-        <div class="card col-lg-3" style="width: 18rem;">
-          <img class="card-img-top" src="https://auditta.digitalsigncertificadora.com.br/media/files/destaque/cartao_digital_nf-e_small.jpg" alt="Card image cap" style="margin-top: 15px;">
-          <div class="card-body">
-            <h5 class="card-title">NF-e</h5>
-            <p class="card-text">Certificado digital ICP-Brasil destinado à emissão de Notas Fiscais Eletrônicas.</p>
-            <a 
-              target="_new"
-              href="https://www.digitalsigncertificadora.com.br/pt/certificados-digitais/nf-e" class="btn btn-success">comprar</a>
+              href="https://api.whatsapp.com/send?phone=551932437597" class="btn btn-success">comprar</a>
           </div>
         </div>
       </div>
@@ -188,7 +192,7 @@
           <form>
             <div class="form-row">
               <div class="col-12">
-                <a 
+                <a
                   class="btn btn-block btn-lg btn-success"
                   href="https://api.whatsapp.com/send?phone=551932437597"
                   target="_new"
