@@ -1,32 +1,30 @@
 {
-  "name": "jhonattas/kakalimpeza-front",
-  "description": "front from kakalimpeza",
-  "minimum-stability": "stable",
-  "license": "proprietary",
-  "type": "project",
-  "authors": [
-    {
-      "name": "Jhonattas Henrique",
-      "email": "jhonattas@soucriador.com"
-    }
-  ],
-  "config": {
-    "vendor-dir" : "vendor"
-  },
-  "autoload": {
-    "psr-4": {
-      "Source\\" : "source/"
+    "name": "jhonattas/auditta-contato",
+    "description": "front from kakalimpeza",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "type": "project",
+    "authors": [{
+        "name": "Jhonattas Henrique",
+        "email": "jhonattas@soucriador.com"
+    }],
+    "config": {
+        "vendor-dir": "vendor"
     },
-    "files": [
-      "source/Config.php"
-    ]
-  },
-  "require": {
-    "phpmailer/phpmailer": "6.0.*",
-    "components/jquery": "3.5.*",
-    "twbs/bootstrap": "^4.5",
-    "coffeecode/router": "1.0.*",
-    "rsportella/popper": "dev-master",
-    "components/font-awesome": "5.15.*"
-  }
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "phpmailer/phpmailer": "6.0.*",
+        "components/jquery": "3.5.*",
+        "twbs/bootstrap": "^4.5",
+        "coffeecode/router": "1.0.*",
+        "rsportella/popper": "dev-master",
+        "components/font-awesome": "5.15.*"
+    }
 }
