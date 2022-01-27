@@ -71,7 +71,7 @@
     <div class="container-fluid">
       <div class="row" style="margin: 0 20px; padding: 10px;">
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="https://auditta.com.br/assets/img/cartao_digital_e-cpf_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cpf_small.jpeg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CPF A1</h5>
             <p>EM ARQUIVO<br/>12 MESES - R$ 137,00</p>
@@ -83,7 +83,7 @@
         </div>
 
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="https://auditta.com.br/assets/img/cartao_digital_e-cpf_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cpf_small.jpeg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CPF A3</h5>
             <p>EM CARTÃO<br/>36 MESES - R$ 259,00</p>
@@ -95,7 +95,7 @@
         </div>
 
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cnpj_small.jpeg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A1</h5>
             <p>EM ARQUIVO<br/>12 MESES - R$ 199,00</p>
@@ -107,7 +107,7 @@
         </div>
 
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cnpj_small.jpeg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A3</h5>
             <p>EM CARTÃO<br/>36 MESES - R$ 345,00</p>
