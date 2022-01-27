@@ -95,7 +95,7 @@
         </div>
 
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="https://auditta.com.br/assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../..//assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A1</h5>
             <p>EM ARQUIVO<br/>12 MESES - R$ 199,00</p>
@@ -107,7 +107,7 @@
         </div>
 
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="https://auditta.com.br/assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A3</h5>
             <p>EM CARTÃO<br/>36 MESES - R$ 345,00</p>
@@ -126,7 +126,7 @@
     <div class="container-fluid p-0">
       <div class="row no-gutters">
 
-        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('<?php echo URL_BASE; ?>assets/img/image-1.jpg');"></div>
+        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('../../assets/img/image-1.jpg');"></div>
         <div class="col-lg-6 order-lg-1 my-auto showcase-text">
           <h2>1. Agende um horário 100% online</h2>
           <p class="lead mb-0">Nós respeitamos o seu tempo. Por isso, estamos prontos para tirar todas as suas dúvidas e realizar seu agendamento de forma <b>totalmente online</b>.</p>
@@ -227,7 +227,7 @@
               <a href="#">Politica de Privacidade</a>
             </li>
           </ul>
-          <p class="text-muted small mb-4 mb-lg-0">&copy; AUDITTA 2021. TODOS OS DIREITOS RESERVADOS.</p>
+          <p class="text-muted small mb-4 mb-lg-0">&copy; AUDITTA 2022. TODOS OS DIREITOS RESERVADOS.</p>
         </div>
         <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
           <ul class="list-inline mb-0">
