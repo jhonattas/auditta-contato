@@ -95,7 +95,7 @@
         </div>
 
         <div class="card col-lg-3" style="margin: 0;">
-          <img class="card-img-top" src="../..//assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
+          <img class="card-img-top" src="../../assets/img/cartao_digital_e-cnpj_small.jpg" alt="Card image cap" style="margin-top: 15px;">
           <div class="card-body">
             <h5 class="card-title">e-CNPJ A1</h5>
             <p>EM ARQUIVO<br/>12 MESES - R$ 199,00</p>
