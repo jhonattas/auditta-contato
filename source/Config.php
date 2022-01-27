@@ -8,7 +8,7 @@ if(getenv('mode') == 'development'){
   ini_set('display_startup_errors', 1);
   error_reporting(E_ALL);
 } else {
-  define("URL_BASE", "https://contato.auditta.com.br/");
+  define("URL_BASE", "https://auditta.com.br/");
   define("API", "https://api.auditta.com.br/");
 }
 define("API_IMAGES", API . "static/images/");
