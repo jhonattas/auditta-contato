@@ -4,24 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0a2dfce211dd00b5863cb888f6eade7a",
+    "content-hash": "6cd92317dd5ae533404d22f899d1567b",
     "packages": [
         {
             "name": "coffeecode/router",
-            "version": "1.0.7",
+            "version": "1.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robsonvleite/router.git",
-                "reference": "e3b94f72bc389e8b97d82a0fd0e5bff743e51667"
+                "reference": "29f73e12351a116e9bbb3f695595777a09e18077"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robsonvleite/router/zipball/e3b94f72bc389e8b97d82a0fd0e5bff743e51667",
-                "reference": "e3b94f72bc389e8b97d82a0fd0e5bff743e51667",
+                "url": "https://api.github.com/repos/robsonvleite/router/zipball/29f73e12351a116e9bbb3f695595777a09e18077",
+                "reference": "29f73e12351a116e9bbb3f695595777a09e18077",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2"
+                "php": ">=7.2"
             },
             "type": "library",
             "autoload": {
@@ -51,22 +51,22 @@
             ],
             "support": {
                 "issues": "https://github.com/robsonvleite/router/issues",
-                "source": "https://github.com/robsonvleite/router/tree/master"
+                "source": "https://github.com/robsonvleite/router/tree/1.0.8"
             },
-            "time": "2019-09-30T16:29:47+00:00"
+            "time": "2021-03-21T18:45:16+00:00"
         },
         {
             "name": "components/font-awesome",
-            "version": "5.15.1",
+            "version": "5.15.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/components/font-awesome.git",
-                "reference": "6943708effe6d823d40255bcdbe9ee021312c880"
+                "reference": "e6fd09f30f578915cc0cf186b0dd0da54385b6be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/components/font-awesome/zipball/6943708effe6d823d40255bcdbe9ee021312c880",
-                "reference": "6943708effe6d823d40255bcdbe9ee021312c880",
+                "url": "https://api.github.com/repos/components/font-awesome/zipball/e6fd09f30f578915cc0cf186b0dd0da54385b6be",
+                "reference": "e6fd09f30f578915cc0cf186b0dd0da54385b6be",
                 "shasum": ""
             },
             "type": "component",
@@ -90,9 +90,9 @@
             "description": "Font Awesome, the iconic SVG, font, and CSS framework.",
             "support": {
                 "issues": "https://github.com/components/font-awesome/issues",
-                "source": "https://github.com/components/font-awesome/tree/5.15.1"
+                "source": "https://github.com/components/font-awesome/tree/5.15.4"
             },
-            "time": "2020-10-06T06:45:49+00:00"
+            "time": "2021-08-15T10:31:24+00:00"
         },
         {
             "name": "components/jquery",
@@ -266,16 +266,16 @@
         },
         {
             "name": "twbs/bootstrap",
-            "version": "v4.5.3",
+            "version": "v4.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twbs/bootstrap.git",
-                "reference": "a716fb03f965dc0846df479e14388b1b4b93d7ce"
+                "reference": "043a03c95a2ad6738f85b65e53b9dbdfb03b8d10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/a716fb03f965dc0846df479e14388b1b4b93d7ce",
-                "reference": "a716fb03f965dc0846df479e14388b1b4b93d7ce",
+                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/043a03c95a2ad6738f85b65e53b9dbdfb03b8d10",
+                "reference": "043a03c95a2ad6738f85b65e53b9dbdfb03b8d10",
                 "shasum": ""
             },
             "replace": {
@@ -315,15 +315,9 @@
             ],
             "support": {
                 "issues": "https://github.com/twbs/bootstrap/issues",
-                "source": "https://github.com/twbs/bootstrap/tree/v4.5.3"
+                "source": "https://github.com/twbs/bootstrap/tree/v4.6.1"
             },
-            "funding": [
-                {
-                    "url": "https://opencollective.com/bootstrap",
-                    "type": "open_collective"
-                }
-            ],
-            "time": "2020-10-13T15:38:30+00:00"
+            "time": "2021-10-28T14:45:21+00:00"
         }
     ],
     "packages-dev": [],
@@ -336,5 +330,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
