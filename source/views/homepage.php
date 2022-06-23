@@ -22,6 +22,15 @@
   <link href="<?php echo URL_BASE; ?>assets/css/landing-page.min.css" rel="stylesheet">
   <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
 
+  <!-- Global site tag (gtag.js) - Google Ads: 807820906 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-807820906"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-807820906');
+</script>
 </head>
 
 <body>
